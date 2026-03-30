@@ -1,8 +1,8 @@
 # Hey, I'm Manoj Tirukovela 👋
 
-> *Backend Developer & AI Builder — I architect systems that scale and agents that think.*
+> _Backend Developer & AI Builder — I architect systems that scale and agents that think._
 
-Backend Developer at **BearCreek AI** with 3+ years building enterprise-grade systems and AI-powered applications. I specialise in microservices, cloud infrastructure, and LLM tooling — from RAG pipelines to real-time voice agents.
+Backend Developer at **BearCreek AI** with 3+ years building enterprise grade systems and AI powered applications. I specialise in microservices, cloud infrastructure, and LLM tooling from RAG pipelines to real-time voice agents.
 
 🌐 **[manojtirukovela.com](https://manojtirukovela.com)** — includes an AI chat assistant (Nova) you can talk to about my work
 
@@ -59,22 +59,22 @@ Backend Developer at **BearCreek AI** with 3+ years building enterprise-grade sy
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [Portfolio + Nova AI](https://manojtirukovela.com) | Personal portfolio with a built-in AI chat assistant (Nova) — powered by PydanticAI, Gemini, and Supabase RAG | React, FastAPI, PydanticAI, Supabase |
-| [Voice Agent](https://github.com/tirukovelamanoj/deepgram_voice_agent) | Real-time voice agent bridging Twilio phone calls with Deepgram Speech-to-Speech — supports barge-in over WebSockets | Python, AsyncIO, WebSockets, Twilio, Deepgram |
-| [Hotel Management API](https://github.com/tirukovelamanoj/spring-rest-api-web) | Full-stack Spring Boot app with GraphQL + REST, JSP views, CSRF auth, deployed on AWS Elastic Beanstalk + MySQL RDS | Java, Spring Boot, GraphQL, AWS |
-| [GAN Digit Generator](https://github.com/tirukovelamanoj/CS_665_UAB_Deep_Learning) | GAN trained adversarially on MNIST over 350 epochs to generate realistic handwritten digits | Python, TensorFlow, Keras |
-| [GitHub Action](https://github.com/tirukovelamanoj/open-issue) | Published GitHub Action for automated issue creation and management | GitHub Actions, YAML |
-| [Farm Dashboard](https://github.com/tirukovelamanoj/software-engineering) | JavaFX dashboard for visualising farm items and controlling drone movements | Java, JavaFX |
-| [Systems Programming](https://github.com/tirukovelamanoj/CS_532_UAB_Systems_Programming) | File I/O, recursive directory traversal, fork/exec, signal handling, POSIX threads in C | C, Linux, Pthreads |
+| Project                                                                                  | Description                                                                                                          | Stack                                         |
+| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| [Portfolio + Nova AI](https://manojtirukovela.com)                                       | Personal portfolio with a built-in AI chat assistant (Nova) — powered by PydanticAI, Gemini, and Supabase RAG        | React, FastAPI, PydanticAI, Supabase          |
+| [Voice Agent](https://github.com/tirukovelamanoj/deepgram_voice_agent)                   | Real-time voice agent bridging Twilio phone calls with Deepgram Speech-to-Speech — supports barge-in over WebSockets | Python, AsyncIO, WebSockets, Twilio, Deepgram |
+| [Hotel Management API](https://github.com/tirukovelamanoj/spring-rest-api-web)           | Full-stack Spring Boot app with GraphQL + REST, JSP views, CSRF auth, deployed on AWS Elastic Beanstalk + MySQL RDS  | Java, Spring Boot, GraphQL, AWS               |
+| [GAN Digit Generator](https://github.com/tirukovelamanoj/CS_665_UAB_Deep_Learning)       | GAN trained adversarially on MNIST over 350 epochs to generate realistic handwritten digits                          | Python, TensorFlow, Keras                     |
+| [GitHub Action](https://github.com/tirukovelamanoj/open-issue)                           | Published GitHub Action for automated issue creation and management                                                  | GitHub Actions, YAML                          |
+| [Farm Dashboard](https://github.com/tirukovelamanoj/software-engineering)                | JavaFX dashboard for visualising farm items and controlling drone movements                                          | Java, JavaFX                                  |
+| [Systems Programming](https://github.com/tirukovelamanoj/CS_532_UAB_Systems_Programming) | File I/O, recursive directory traversal, fork/exec, signal handling, POSIX threads in C                              | C, Linux, Pthreads                            |
 
 ---
 
 ## 📄 Publication
 
 **Deep Reinforcement Learning on Atari 2600**
-*International Journal of Innovative Science and Research Technology (IJISRT)*
+_International Journal of Innovative Science and Research Technology (IJISRT)_
 Explored deep RL agent training strategies on classic Atari environments.
 → [Read the paper](https://ijisrt.com/deep-reinforcement-learning-on-atari-2600)
 
@@ -82,16 +82,16 @@ Explored deep RL agent training strategies on classic Atari environments.
 
 ## 🏅 Certifications
 
-| Certification | Issuer |
-|---|---|
-| AWS Certified Developer – Associate | Amazon Web Services |
-| AWS Certified Cloud Practitioner | Amazon Web Services |
-| Building RAG Agents with LLMs | NVIDIA |
-| MongoDB for SQL Professionals | MongoDB |
+| Certification                               | Issuer                     |
+| ------------------------------------------- | -------------------------- |
+| AWS Certified Developer – Associate         | Amazon Web Services        |
+| AWS Certified Cloud Practitioner            | Amazon Web Services        |
+| Building RAG Agents with LLMs               | NVIDIA                     |
+| MongoDB for SQL Professionals               | MongoDB                    |
 | Docker Foundations Professional Certificate | Docker / LinkedIn Learning |
-| Learning Kubernetes | LinkedIn Learning |
-| Getting Started with OpenTelemetry | The Linux Foundation |
-| Mastering Observability with OpenTelemetry | LinkedIn Learning |
+| Learning Kubernetes                         | LinkedIn Learning          |
+| Getting Started with OpenTelemetry          | The Linux Foundation       |
+| Mastering Observability with OpenTelemetry  | LinkedIn Learning          |
 
 ---
 
