@@ -1,10 +1,10 @@
 # Hey, I'm Manoj Tirukovela 👋
 
-> _Backend Developer & AI Builder — I architect systems that scale and agents that think._
+> _Senior Software Engineer & AI Builder. I architect systems that scale and agents that think._
 
-Backend Developer at **BearCreek AI** with 3+ years building enterprise grade systems and AI powered applications. I specialise in microservices, cloud infrastructure, and LLM tooling from RAG pipelines to real-time voice agents.
+Senior Software Engineer at **BearCreek AI** with 3+ years building enterprise grade systems and AI powered applications. I specialise in microservices, cloud infrastructure, and LLM tooling, from RAG pipelines to real-time voice agents and agent to agent payments.
 
-🌐 **[manojtirukovela.com](https://manojtirukovela.com)** — includes an AI chat assistant (Nova) you can talk to about my work
+🌐 **[manojtirukovela.com](https://manojtirukovela.com)** includes an AI chat assistant (Nova) you can talk to about my work
 
 ---
 
@@ -30,8 +30,18 @@ Backend Developer at **BearCreek AI** with 3+ years building enterprise grade sy
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
 ![Deepgram](https://img.shields.io/badge/Deepgram-101010?style=flat&logo=deepgram&logoColor=white)
+
+**Agents & Payments**
+
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=anthropic&logoColor=white)
+![x402](https://img.shields.io/badge/x402-0052FF?style=flat&logo=coinbase&logoColor=white)
+![Base](https://img.shields.io/badge/Base-0052FF?style=flat&logo=coinbase&logoColor=white)
+![USDC](https://img.shields.io/badge/USDC-2775CA?style=flat&logo=circle&logoColor=white)
+![Coinbase CDP](https://img.shields.io/badge/Coinbase_CDP-0052FF?style=flat&logo=coinbase&logoColor=white)
 
 **Cloud & Infrastructure**
 
@@ -59,15 +69,17 @@ Backend Developer at **BearCreek AI** with 3+ years building enterprise grade sy
 
 ## 🚀 Featured Projects
 
-| Project                                                                                  | Description                                                                                                          | Stack                                         |
-| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| [Portfolio + Nova AI](https://manojtirukovela.com)                                       | Personal portfolio with a built-in AI chat assistant (Nova) — powered by PydanticAI, Gemini, and Supabase RAG        | React, FastAPI, PydanticAI, Supabase          |
-| [Voice Agent](https://github.com/tirukovelamanoj/deepgram_voice_agent)                   | Real-time voice agent bridging Twilio phone calls with Deepgram Speech-to-Speech — supports barge-in over WebSockets | Python, AsyncIO, WebSockets, Twilio, Deepgram |
-| [Hotel Management API](https://github.com/tirukovelamanoj/spring-rest-api-web)           | Full-stack Spring Boot app with GraphQL + REST, JSP views, CSRF auth, deployed on AWS Elastic Beanstalk + MySQL RDS  | Java, Spring Boot, GraphQL, AWS               |
-| [GAN Digit Generator](https://github.com/tirukovelamanoj/CS_665_UAB_Deep_Learning)       | GAN trained adversarially on MNIST over 350 epochs to generate realistic handwritten digits                          | Python, TensorFlow, Keras                     |
-| [GitHub Action](https://github.com/tirukovelamanoj/open-issue)                           | Published GitHub Action for automated issue creation and management                                                  | GitHub Actions, YAML                          |
-| [Farm Dashboard](https://github.com/tirukovelamanoj/software-engineering)                | JavaFX dashboard for visualising farm items and controlling drone movements                                          | Java, JavaFX                                  |
-| [Systems Programming](https://github.com/tirukovelamanoj/CS_532_UAB_Systems_Programming) | File I/O, recursive directory traversal, fork/exec, signal handling, POSIX threads in C                              | C, Linux, Pthreads                            |
+| Project                                                                                            | Description                                                                                                                                                                                              | Stack                                         |
+| -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| [ATC Arena](https://game.manojtirukovela.com) · [src](https://github.com/tirukovelamanoj/ATC)      | Real-time air traffic control game a person plays with a mouse and an RL agent plays over the same public API. Fully convolutional PPO policy, ~58k weights at any grid resolution, exported to ONNX so the server flies it without shipping PyTorch. Weights are downloadable, so anyone can point their own model at the live environment. | Python, PyTorch, Gymnasium, PPO, ONNX, FastAPI |
+| [Agent Payments (x402)](https://manojtirukovela.com/x402)                                          | A paywalled HTTP endpoint that any wallet or AI agent can pay in USDC on Base. The server answers with 402 and its terms, the buyer signs an authorization, and a facilitator settles it on chain. No accounts, no API keys, no card, and the server holds no private key. | Python, FastAPI, x402, Base, USDC, Coinbase CDP |
+| [Portfolio + Nova AI](https://manojtirukovela.com)                                                 | Personal portfolio with a built-in AI chat assistant (Nova), powered by PydanticAI, Gemini, and Supabase RAG                                                                                              | React, FastAPI, PydanticAI, Supabase          |
+| [Voice Agent](https://github.com/tirukovelamanoj/deepgram_voice_agent)                             | Real-time voice agent bridging Twilio phone calls with Deepgram Speech-to-Speech, with barge-in over WebSockets                                                                                           | Python, AsyncIO, WebSockets, Twilio, Deepgram |
+| [Hotel Management API](https://github.com/tirukovelamanoj/spring-rest-api-web)                      | Full-stack Spring Boot app with GraphQL + REST, JSP views, CSRF auth, deployed on AWS Elastic Beanstalk + MySQL RDS                                                                                       | Java, Spring Boot, GraphQL, AWS               |
+| [GAN Digit Generator](https://github.com/tirukovelamanoj/CS_665_UAB_Deep_Learning)                  | GAN trained adversarially on MNIST over 350 epochs to generate realistic handwritten digits                                                                                                               | Python, TensorFlow, Keras                     |
+| [GitHub Action](https://github.com/tirukovelamanoj/open-issue)                                     | Published GitHub Action for automated issue creation and management                                                                                                                                      | GitHub Actions, YAML                          |
+| [Farm Dashboard](https://github.com/tirukovelamanoj/software-engineering)                          | JavaFX dashboard for visualising farm items and controlling drone movements                                                                                                                              | Java, JavaFX                                  |
+| [Systems Programming](https://github.com/tirukovelamanoj/CS_532_UAB_Systems_Programming)           | File I/O, recursive directory traversal, fork/exec, signal handling, POSIX threads in C                                                                                                                  | C, Linux, Pthreads                            |
 
 ---
 
@@ -82,16 +94,17 @@ Explored deep RL agent training strategies on classic Atari environments.
 
 ## 🏅 Certifications
 
-| Certification                               | Issuer                     |
-| ------------------------------------------- | -------------------------- |
-| AWS Certified Developer – Associate         | Amazon Web Services        |
-| AWS Certified Cloud Practitioner            | Amazon Web Services        |
-| Building RAG Agents with LLMs               | NVIDIA                     |
-| MongoDB for SQL Professionals               | MongoDB                    |
-| Docker Foundations Professional Certificate | Docker / LinkedIn Learning |
-| Learning Kubernetes                         | LinkedIn Learning          |
-| Getting Started with OpenTelemetry          | The Linux Foundation       |
-| Mastering Observability with OpenTelemetry  | LinkedIn Learning          |
+| Certification                                    | Issuer                     |
+| ------------------------------------------------ | -------------------------- |
+| Certified Kubernetes Application Developer (CKAD) | CNCF / The Linux Foundation |
+| AWS Certified Developer, Associate               | Amazon Web Services        |
+| AWS Certified Cloud Practitioner                 | Amazon Web Services        |
+| Building RAG Agents with LLMs                    | NVIDIA                     |
+| MongoDB for SQL Professionals                    | MongoDB                    |
+| Docker Foundations Professional Certificate      | Docker / LinkedIn Learning |
+| Learning Kubernetes                              | LinkedIn Learning          |
+| Getting Started with OpenTelemetry               | The Linux Foundation       |
+| Mastering Observability with OpenTelemetry       | LinkedIn Learning          |
 
 ---
 
